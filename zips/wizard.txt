@@ -23,7 +23,7 @@ fanart="http://167.114.14.194/Kodi/Wizard/images/background.jpg"
 description="Shannon's Nox build - June 23, 2015"
 
 name="Shannon's Nox Kids Build"
-url="https://docs.google.com/uc?export=download&confirm=bVtD&id=0BzJXEktcaKzJREpzenFCWXkwM0E" 
+url="https://drive.google.com/uc?export=no_antivirus=download&confirm=atYM&id=0BzJXEktcaKzJREpzenFCWXkwM0E" 
 #img="http://167.114.14.194/Kodi/Wizard/images/shannoxkids.jpg" 
 #fanart="http://167.114.14.194/Kodi/Wizard/images/background.jpg"
 description="Shannon's Nox Kids build - June 23, 2015"
