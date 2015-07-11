@@ -23,7 +23,7 @@ fanart="http://167.114.14.194/Kodi/Wizard/images/background.jpg"
 description="Shannon's Nox build - June 23, 2015"
 
 name="Shannon's Nox Kids Build"
-url="https://www.dropbox.com/s/s2lo9aqjmn9kh7q/FTVOE.zip?dl=0"
+url="https://www.dropbox.com/s/s2lo9aqjmn9kh7q/FTVOE.zip?raw=true"
 img="https://google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=https%3A%2F%2Fwiki.sugarlabs.org%2Fgo%2FSupported_distributions&ei=q62gVafEIcGgyQTrpo3gBQ&bvm=bv.97653015,d.aWw&psig=AFQjCNHJ1Z2T-PhHmR1VequX-CMmYYQzlw&ust=1436679977671400"
 fanart="https://google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fhosting01.com%2FSCRadio%2FKenFreeman%2F&ei=Ga2gVdOEJcT2yQSD4ofADg&bvm=bv.97653015,d.aWw&psig=AFQjCNFAbajKKZ6tRa3Q9OCJhTrp7O8bxQ&ust=1436679838019019"
 description="Shannon's Nox Kids build - June 23, 2015"
