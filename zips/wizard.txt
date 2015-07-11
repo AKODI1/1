@@ -23,7 +23,7 @@ fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Shannon's Nox build - June 23, 2015"
 
 name="Shannon's Nox Kids Build"
-url="https://www.dropbox.com/s/2le1b8vg4dp5irn/Nox%20Kids.zip?raw=true"
+url="https://www.dropbox.com/s/2le1b8vg4dp5irn/Nox%20Kids.zip"
 img="https://github.com/AKODI1/1/blob/master/images/kids10.jpg?raw=true"
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Shannon's Nox Kids build - June 23, 2015"
