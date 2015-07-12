@@ -17,13 +17,13 @@ fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Original AKA Build with Adult content.  NHL on OE - June 13, 2015"
 
 name=" UPDATE COMING SOON!"
- 
+url="https://www.dropbox.com/s/koys4nxl885gk5v/Nox.zip"
 img="https://github.com/AKODI1/1/blob/master/images/build7.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Shannon's Nox build UPDATE COMING SOON!"
 
 name=" UPDATE COMING SOON!"
-
+url="https://www.dropbox.com/s/2le1b8vg4dp5irn/Nox%20Kids.zip"
 img="https://github.com/AKODI1/1/blob/master/images/kids10.jpg?raw=true"
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Shannon's Nox Kids  UPDATE COMING SOON!"
