@@ -1,18 +1,18 @@
 name="AKA Animal Build - no adult content"
 url="https://www.dropbox.com/s/23pxp5pv7yliy19/AKA.ccm.2.0.zip?raw=true" 
-img="https://github.com/AKODI1/1/blob/master/images/fanart.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="AKA Animal Build (no Adult content).  June 27, 2015"
 
 name="Original AKA Build with no adult content"
 url="https://www.dropbox.com/s/js9t98rlhlh24ni/FTVOE.zip?raw=true" 
-img="https://github.com/AKODI1/1/blob/master/images/fanart.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/test.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Original AKA Build with no Adult content.  NHL on OE - June 13, 2015"
 
 name="Original AKA Build with adult profile"
 url="https://www.dropbox.com/s/zvx3m474y9kg7tr/FTVOEXXX.zip?raw=true" 
-img="https://github.com/AKODI1/1/blob/master/images/fanart.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/adult.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Original AKA Build with Adult content.  NHL on OE - June 13, 2015"
 
