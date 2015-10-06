@@ -1,5 +1,5 @@
 name="AKA Animal Build - no adult content"
-url="https://www.dropbox.com/s/77iqyntfmcl7ly0/aka.ccm.2.5.zip?raw=true" 
+url="http://bit.ly/1VCgJDz" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Genesis v5 shortcuts fix and 'other' tweaks:)  AKA Animal Build (no Adult content).  August 29, 2015"
