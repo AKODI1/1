@@ -4,6 +4,12 @@ img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true"
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Genesis v5 shortcuts fix and 'other' tweaks:)  AKA Animal Build (no Adult content).  August 29, 2015"
 
+name="AKA Animal Build - no adult content - TEST"
+url="http://bit.ly/1FTy0pO" 
+img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
+fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
+description="Test Build - Oct 5th, 2015"
+
 name="Shannon's Nox Build"
 url="https://www.dropbox.com/s/gn7ue5dgh8kya5p/nox.zip?raw=true"
 img="https://github.com/AKODI1/1/blob/master/images/build7.jpg?raw=true" 
