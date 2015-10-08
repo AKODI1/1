@@ -6,7 +6,7 @@ description="Latest AKA Animal Build (no Adult content).  August 29, 2015"
 
 name="AKA Animal Build - no adult content - TEST"
 url="http://bit.ly/1j1E592" 
-img="https://github.com/AKODI1/1/blob/master/images/Animal Halo.png?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Test Build - Oct 5th, 2015"
 
