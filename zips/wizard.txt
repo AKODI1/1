@@ -6,7 +6,7 @@ description="Genesis v5 shortcuts fix and 'other' tweaks:)  AKA Animal Build (no
 
 name="AKA Animal Build - no adult content - TEST"
 url="http://bit.ly/1j1E592" 
-img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/Animal Halo.png?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Test Build - Oct 5th, 2015"
 
