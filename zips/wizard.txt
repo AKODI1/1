@@ -1,8 +1,8 @@
 name="AKA Animal Build - no adult content"
-url="http://bit.ly/1VCgJDz" 
+url="http://bit.ly/1LkRG6p" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Genesis v5 shortcuts fix and 'other' tweaks:)  AKA Animal Build (no Adult content).  August 29, 2015"
+description="Latest AKA Animal Build (no Adult content).  August 29, 2015"
 
 name="AKA Animal Build - no adult content - TEST"
 url="http://bit.ly/1j1E592" 
