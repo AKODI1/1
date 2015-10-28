@@ -5,10 +5,10 @@ fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Latest AKA Animal Build (no Adult content).  Oct 26th, 2015"
 
 name="AKA Animal Build - with ADULT content"
-url="http://bit.ly/1GzhWEF" 
+url="http://bit.ly/1P3Kiha" 
 img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Animal build with Adult content - Oct 8th, 2015"
+description="Animal build with Adult content - Oct 26th, 2015"
 
 name="Shannon's Nox Build"
 url="https://www.dropbox.com/s/gn7ue5dgh8kya5p/nox.zip?raw=true"
