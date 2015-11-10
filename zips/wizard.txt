@@ -2,7 +2,7 @@ name="AKA Animal Build - no adult content"
 url="http://bit.ly/1QezUVz" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Latest AKA Animal Build (no Adult content) doies section added.  Nov 9th, 2015"
+description="Latest AKA Animal Build (no Adult content) documentaries section added - Thanks @Leon.  Nov 9th, 2015"
 
 name="AKA Animal Build - with ADULT content"
 url="http://bit.ly/1P3Kiha" 
