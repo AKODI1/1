@@ -1,14 +1,8 @@
-name="AKA Animal Build - no adult content"
-url="http://bit.ly/1QezUVz" 
-img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
-fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Latest AKA Animal Build (no Adult content) documentaries section added - Thanks @Leon.  Nov 9th, 2015"
-
-name="AKA Christmas Themed Build - No Adult Content (0bviously :)"
+name="AKA Build - No Adult Content"
 url="http://bit.ly/AKAChristmas" 
-img="https://github.com/AKODI1/1/blob/master/images/AnimalSanta.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/animalmanta.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Animal Christmas Themed build - December 1st, 2015.  MERRY CHRISTMAS."
+description="Animal build - December 1st, 2015."
 
 name="AKA Animal Build - with ADULT content"
 url="http://bit.ly/1P3Kiha" 
