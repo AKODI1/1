@@ -1,6 +1,6 @@
 name="AKA Build - No Adult Content"
 url="http://bit.ly/AKAChristmas" 
-img="https://github.com/AKODI1/1/blob/master/images/animalmanta.jpg?raw=true" 
+img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Animal build - December 1st, 2015."
 
