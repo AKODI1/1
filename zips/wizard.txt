@@ -4,12 +4,6 @@ img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true"
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Animal build - December 1st, 2015."
 
-#name="AKA Build - No Adult Content"
-#url="http://bit.ly/AKAccm3" 
-#img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
-#fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-#description="Animal build with Exodus inclusion - January 20th, 2016."
-
 name="AKA Animal Build - with ADULT content"
 url="http://bit.ly/1P3Kiha" 
 img="https://github.com/AKODI1/1/blob/master/images/AnimalHalo.jpg?raw=true" 
