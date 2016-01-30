@@ -16,9 +16,3 @@ img="https://github.com/AKODI1/1/blob/master/images/falcon.jpg?raw=true"
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
 description="Shannon's Updated Falcon build - December 26, 2015"
 
-#name="Animal's Kodi Arsenal Repo Install"
-#url="http://bit.ly/AKARepo"
-#img="https://github.com/AKODI1/1/blob/master/images/fanart.jpg?raw=true"
-#fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-#description="AKA Repo - use this to install our repo - January 30, 2016"
-
