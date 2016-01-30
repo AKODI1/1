@@ -12,7 +12,7 @@ USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/
 base='http://167.114.14.194/Kodi/Wizard/tools/'
 ADDON=xbmcaddon.Addon(id='plugin.video.akawizard')
 INTRO = xbmc.translatePath(os.path.join('special://home/addons/plugin.video.akawizard/Animal.mp4'))  
-  
+REPO = xbmc.translatePath(os.path.join('special://home/addons/repository.AnimalKodi'))  
 VERSION = "2.0.6"
 PATH = "AKA Wizard"
 
@@ -44,7 +44,9 @@ def CATEGORIES():
     link = OPEN_URL('https://github.com/AKODI1/1/blob/master/zips/wizard.txt?raw=true').replace('\n','').replace('\r','')
     match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link)
     for name,url,iconimage,fanart,description in match:
-        addDir(name,url,1,iconimage,fanart,description)
+        if os.path.exists(REPO) and ('Repo') in name:pass
+        else:
+            addDir(name,url,1,iconimage,fanart,description)
     setView('movies', 'MAIN')
     
                 
