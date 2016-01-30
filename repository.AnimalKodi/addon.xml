@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.AnimalKodi" name="Animal's Kodi Arsenal Repo" version="1.0.0" provider-name="AnimalKodi">
+	<extension point="xbmc.addon.repository" name="Animal's Kodi Arsenal Repo">
+        <info compressed="false">http://raw.github.com/AKODI1/1/master/addons.xml</info>
+        <checksum>http://raw.github.com/AKODI1/1/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/AKODI1/1/raw/master/zips</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">AKA Wizard</summary>
+		<description lang="en">Install the best builds from Animal and[CR] others with this easy auto download,[CR] extract and reboot wizard from[CR] animalkodi.com and Animal's Kodi REPO</description>
+		<platform>all</platform>
+    </extension>
+</addon>
