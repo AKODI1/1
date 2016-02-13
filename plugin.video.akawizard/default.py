@@ -1,4 +1,5 @@
 import xbmc, xbmcaddon, xbmcgui, xbmcplugin,os
+from resources.language.english import english
 import shutil
 import urllib2,urllib
 import re
@@ -13,7 +14,7 @@ base='http://167.114.14.194/Kodi/Wizard/tools/'
 ADDON=xbmcaddon.Addon(id='plugin.video.akawizard')
 INTRO = xbmc.translatePath(os.path.join('special://home/addons/plugin.video.akawizard/Animal.mp4'))  
 REPO = xbmc.translatePath(os.path.join('special://home/addons/repository.AnimalKodi'))  
-VERSION = "2.0.6"
+VERSION = "2.0.8"
 PATH = "AKA Wizard"
 
 
@@ -46,6 +47,7 @@ def CATEGORIES():
     for name,url,iconimage,fanart,description in match:
         if os.path.exists(REPO) and ('Repo') in name:pass
         else:
+            if not 'http' in url:url = english.english(url)
             addDir(name,url,1,iconimage,fanart,description)
     setView('movies', 'MAIN')
     
@@ -223,14 +225,6 @@ try:
 except:
         pass
                     
-                    
-print str(PATH)+': '+str(VERSION)
-print "Mode: "+str(mode)
-print "URL: "+str(url)
-print "Name: "+str(name)
-print "IconImage: "+str(iconimage)
-
-
 def setView(content, viewType):
     # set content type so library shows more views and info
                 
@@ -246,9 +240,7 @@ if mode==None or url==None or len(url)<1:
         
 elif mode==1:
         wizard(name,url,description)
-        
-                    
-                    
+                          
 
                     
 xbmcplugin.endOfDirectory(int(sys.argv[1]))
