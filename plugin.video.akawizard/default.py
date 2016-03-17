@@ -1,5 +1,6 @@
-import xbmc, xbmcaddon, xbmcgui, xbmcplugin,os
+import xbmc, xbmcaddon, xbmcgui, xbmcplugin,os,sys
 from resources.language.english import english
+from resources.language.dutch import dutch
 import shutil
 import urllib2,urllib
 import re
@@ -14,36 +15,66 @@ base='http://167.114.14.194/Kodi/Wizard/tools/'
 ADDON=xbmcaddon.Addon(id='plugin.video.akawizard')
 INTRO = xbmc.translatePath(os.path.join('special://home/addons/plugin.video.akawizard/Animal.mp4'))  
 REPO = xbmc.translatePath(os.path.join('special://home/addons/repository.AnimalKodi'))  
-VERSION = "2.0.8"
+VERSION = "2.0.9"
 PATH = "AKA Wizard"
 
+def TEST():
+    return
 
 def INTROS():
-    xbmcaddon.Addon(id='plugin.video.akawizard').openSettings()
-    
-    if ADDON.getSetting('intro') == "true":
-        xbmcPlayer=xbmc.Player()
-        xbmcPlayer.play(INTRO)
-        ADDON.setSetting('intro','false')
-    else:
-        pass
-        if ADDON.getSetting('message') == "true":
-            intro=xbmcgui.Dialog()
-            msg = intro.ok("AKAWIZARD", "[COLOR orange]AUTOMATICALLY INSTALLS THE BUILDS!",
-                            "MOST DEVICES REBOOT TO YOUR NEW BUILD",
-                            "ENJOY ALL AKA WIZARD BUILDS. THANK-YOU. [/COLOR]")
-            if msg == "ok":
-                ADDON.setSetting('message','false')
-            else:
-                pass
+    if HOST():
+        xbmcaddon.Addon(id='plugin.video.akawizard').openSettings()
+        
+        if ADDON.getSetting('intro') == "true":
+            xbmcPlayer=xbmc.Player()
+            xbmcPlayer.play(INTRO)
+            ADDON.setSetting('intro','false')
+            
         else:
-            pass      
+            pass  
+            if ADDON.getSetting('message') == "true":
+                intro=xbmcgui.Dialog()
+                msg = intro.ok("AKAWIZARD", "[COLOR orange]AUTOMATICALLY INSTALLS THE BUILDS!",
+                                "MOST DEVICES REBOOT TO YOUR NEW BUILD",
+                                "ENJOY ALL AKA WIZARD BUILDS. THANK-YOU. [/COLOR]")
+                if msg == "ok":
+                    ADDON.setSetting('message','false')
+                else:
+                    pass
+      
     
-
-
-def CATEGORIES():                      
+def HOST():
+    hostpath = OPEN_URL('https://github.com/AKODI1/1/blob/master/zips/password.xml?raw=true')
+    c = 0
+    while c  < 1:
+        keyboard = xbmc.Keyboard()
+        keyboard.setHeading('AKA WIZARD - USERNAME')
+        keyboard.doModal()
+        if keyboard.isConfirmed():
+             user = keyboard.getText()
+        
+        keyboard.setHeading('AKA WIZARD - PASSWORD')
+        keyboard.doModal()
+        if keyboard.isConfirmed():
+             key = keyboard.getText()
+        
+        geter = re.findall('\<.+?\>(.+?)\<.+?\>\<.+?\>(.+?)\<.+?\>\n',hostpath)
+        c = c + 1
+        for u,p in geter:
+            u = dutch.translate(u)
+            p = dutch.translate(p)
+            if u == str(user) and  p == str(key):return True
+        
+    
+    dialog = xbmcgui.Dialog()
+    dialog.ok("AKAWIZARD","PLEASE CONTACT ANIMALKODI.COM FOR ACCESS")
+    exit()    
+    
+    
+def CATEGORIES():
+    
     link = OPEN_URL('https://github.com/AKODI1/1/blob/master/zips/wizard.txt?raw=true').replace('\n','').replace('\r','')
-    match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link)
+    match = re.compile('name="(.+?)".+?rl="(.+?)".+?mg="(.+?)".+?anart="(.+?)".+?escription="(.+?)"').findall(link) 
     for name,url,iconimage,fanart,description in match:
         if os.path.exists(REPO) and ('Repo') in name:pass
         else:

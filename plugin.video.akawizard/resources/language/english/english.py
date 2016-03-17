@@ -15,7 +15,10 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
-import urllib,base64,os,re
+import urllib,base64,sys,os,re
+
+def TEST():
+    return
 
 def english(final):
     try:    
