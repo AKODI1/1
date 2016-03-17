@@ -1,14 +1,8 @@
 name="AKA Build - No Adult Content"
-url="VmtaYVlWSXhSWGRPVld4JsV16aN1WVlUTkNVRlpXVVhkUFVUMDkvVm0weGQxSXhWWGhVYmxKWFlUSlNXVll3WkZOVU1WcHpXa1pPYWxKc1dqQlVWbEpUVmpGYWRHVkljRnBXVm5CUVdWZDRZV014VG5OaVJsWlhZbFV3ZUZkV1VrSmxSbVJYVW01S1lWSnRhRzlVVm1oRFpWWmtXR1JIUmxkTlZuQlhWRlpXVjJGSFZuRlJWR3M5" 
+url="VmtaYVlWbFhTa1pOV0ZaJsV16aN1V1lrWndVMXBJYjNkUFVUMDkvVm0weGQxSXhWWGhVYmxKWFlUSlNXVll3WkZOVU1WcHpXa1pPYWxKc1dqQlVWbEpUVmpGYWRHVkljRnBXVm5CUVdWZDRZV014VG5OaVJsWlhZbFV3ZUZkV1VrSmxSbVJYVW01S1lWSnRhRzlVVm1oRFpWWmtXR1JIUmxkTlZuQlhWRlpXVjJGSFZuRlJWR3M5" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Animal build with Exodus - February 25th, 2015."
-
-name="Shannon's Falcon Build"
-url="VmxkNGFrMVhSblJVYmxaJsV16aN1cFUwZFNjbFZyVlhkUFVUMDkvVm0weGQxSXhWWGhVYmxKWFlUSlNXVll3WkZOVU1WcHpXa1pPYWxKc1dqQlVWbEpUVmpGYWRHVkljRnBXVm5CUVdWZDRZV014VG5OaVJsWlhZbFV3ZUZkV1VrSmxSbVJYVW01S1lWSnRhRzlVVm1oRFpWWmtXR1JIUmxkTlZuQlhWRlpXVjJGSFZuRlJWR3M5"
-img="https://github.com/AKODI1/1/blob/master/images/falcon.jpg?raw=true" 
-fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Shannon's Updated Falcon build - December 26, 2015"
+description="Animal build with Exodus - March 14th, 2016."
 
 name="Animal's Repo Install"
 url="http://bit.ly/AKARepo"
