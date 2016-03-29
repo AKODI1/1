@@ -1,8 +1,8 @@
 name="AKA Build - No Adult Content"
-url="Vmtaa2QxWXlTWGROVkZwJsV16aN1cFVucFdjMVpXVVhkUFVUMDkvVm0weGQxSXhWWGhVYmxKWFlUSlNXVll3WkZOVU1WcHpXa1pPYWxKc1dqQlVWbEpUVmpGYWRHVkljRnBXVm5CUVdWZDRZV014VG5OaVJsWlhZbFV3ZUZkV1VrSmxSbVJYVW01S1lWSnRhRzlVVm1oRFpWWmtXR1JIUmxkTlZuQlhWRlpXVjJGSFZuRlJWR3M5" 
+url="Vmtaa2QxTXhiRmhTYWxwJsV16aN1U1ZrVmFhRmR1YjNkUFVUMDkvVm0weGQxSXhWWGhVYmxKWFlUSlNXVll3WkZOVU1WcHpXa1pPYWxKc1dqQlVWbEpUVmpGYWRHVkljRnBXVm5CUVdWZDRZV014VG5OaVJsWlhZbFV3ZUZkV1VrSmxSbVJYVW01S1lWSnRhRzlVVm1oRFpWWmtXR1JIUmxkTlZuQlhWRlpXVjJGSFZuRlJWR3M5" 
 img="https://github.com/AKODI1/1/blob/master/images/animalmusic.jpg?raw=true" 
 fanart="https://github.com/AKODI1/1/blob/master/images/background.jpg?raw=true"
-description="Animal build with Phoenix v3 shortcut fixes - March 21st, 2016."
+description="Animal build with IPTVSubs Addon - March 29th, 2016."
 
 name="Animal's Repo Install"
 url="http://bit.ly/AKARepo"
